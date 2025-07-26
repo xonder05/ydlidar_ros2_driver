@@ -6,8 +6,8 @@
   <description>
     The ROS2 device driver for YDLIDAR LIDARS
   </description>
-  <maintainer email="support@ydlidar.com">Tony</maintainer>
-  <license>MIT</license>
+  <maintainer email="daniel.onderk@gmail.com">daniel</maintainer>
+  <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

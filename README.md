@@ -1,3 +1,6 @@
+# ROS2 driver for YDLIDAR X3
+### This repository is a fork. The following readme is mostly correct, but specifics might differ.
+
 ![YDLIDAR](images/YDLidar.jpg  "YDLIDAR")
 # YDLIDAR ROS2 Driver
 
